@@ -38,7 +38,7 @@ You have two options for creating your tutorial:
 
 ## Deliverable
 
-Your deliverable should be a fork of the SDK repo. If you decided to use Markdown for your tutorial, feel free to just clobber the exisitng README.md with your tutorial file. If you decided to host your tutorial as an external page, simply clobber the README.md contents with a link to your page.
+Your deliverable should be a fork of the SDK repo. If you decided to use Markdown for your tutorial, feel free to just clobber the existing README.md with your tutorial file. If you decided to host your tutorial as an external page, simply clobber the README.md contents with a link to your page.
 
 E-mail us a link to your Github repo to `projects@altvr.com`. Please include your contact information, and if you haven't submitted it to us already, your resume and cover letter. 
 
