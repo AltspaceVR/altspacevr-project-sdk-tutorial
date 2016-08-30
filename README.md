@@ -18,19 +18,17 @@ When we receive your project, here is what we will be asking ourselves:
 
 You will be upgrading an example in the [SDK repo](https://github.com/AltspaceVR/AltspaceSDK), so start by forking the repo and cloning a local copy. The existing [Getting Started](https://developer.altvr.com/get-started/) page should help you get your development environment running.
 
-For the sake of this project, we are considering that a hypothetical tutorial series has already been started. The existing example you pick will be considered the completed steps of tutorial #3 in this series. The upgrades you make (and the matching tutorial) will be considered tutorial #4. 
-
 As a seed, some potential options for upgrades are:
 - Add another feature from three.js
 - Utilize another [Altspace API](http://altspacevr.github.io/AltspaceSDK/doc/)
 - Integrate a useful third-party library
 - Restructure the code in a specifically better way
 
-These modifications do not need to be extensive, but they should be involved enough to demonstrate your abilities.
+These modifications do not need to be extensive, but they should be involved enough to demonstrate your coding abilities.
 
 # Part 2 - Write a Matching Tutorial
 
-Your intention in the tutorial should be to teach a SDK developer the new APIs, libraries, or techniques you are using in your upgrade. 
+For the sake of this project, we will imagine that the tutorial you are writing is part of a larger series. Please write a tutorial that walks your reader through adding the new APIs, libraries, or techniques you are using in your upgrade. A useful context may be that the example you have upgraded was the previous tutorial, and the tutorial you are writing is a continuation of the series.
 
 You have two options for creating your tutorial:   
   1. Use Markdown (http://dillinger.io/ is a pretty decent editor)  
