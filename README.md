@@ -28,7 +28,7 @@ These modifications do not need to be extensive, but they should be involved eno
 
 # Part 2 - Write a Matching Tutorial
 
-For the sake of this project, we will imagine that the tutorial you are writing is part of a larger series. Please write a tutorial that walks your reader through adding the new APIs, libraries, or techniques you are using in your upgrade. A useful context may be that the example you started with was the previous tutorial, and the tutorial you are writing is a continuation of the series with your upgrades being the next step.
+For the sake of this project, we will imagine that the tutorial you are writing is part of a larger series. Please write a tutorial that walks your reader through adding the new APIs, libraries, or techniques you are using in your upgrade. A useful context may be that the example you started with was the previous tutorial, and the tutorial you are writing is a continuation of the series.
 
 You have two options for creating your tutorial:   
   1. Use Markdown (http://dillinger.io/ is a pretty decent editor)  
