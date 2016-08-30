@@ -34,7 +34,7 @@ Your intention in the tutorial should be to teach a SDK developer the new APIs, 
 
 You have two options for creating your tutorial:   
   1. Use Markdown (http://dillinger.io/ is a pretty decent editor)  
-  2. Create a webpage and send us a link.   
+  2. Create a webpage using your tool of choice and send us a link.   
 
 ## Deliverable
 
