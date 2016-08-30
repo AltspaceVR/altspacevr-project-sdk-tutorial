@@ -33,8 +33,8 @@ These modifications do not need to be extensive, but they should be involved eno
 Your intention in the tutorial should be to teach a SDK developer the new APIs, libraries, or techniques you are using in your upgrade. 
 
 You have two options for creating your tutorial. 
-1) Use Markdown (http://dillinger.io/ is a pretty decent editor)
-2) Create a webpage and send us a link. 
+1. Use Markdown (http://dillinger.io/ is a pretty decent editor)
+2. Create a webpage and send us a link. 
 
 ## Deliverable
 
